@@ -1,4 +1,4 @@
-# CloudShield360
+# cloud-security-controls-framework
 
 **CloudShield360** is a production-ready, modular AWS Secure Landing Zone Infrastructure project built entirely with Terraform using best IaC practices. It supports real deployment and includes reusable modules for rapid DevOps provisioning and zero-trust architecture.
 
